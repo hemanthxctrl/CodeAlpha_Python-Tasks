@@ -28,3 +28,6 @@ This repository contains a collection of Python projects completed as part of th
 - Simple rule-based chatbot
 - Responds to user inputs with predefined replies
 - Demonstrates basic AI logic
+
+
+📁 Folder: `CodeAlpha_Basic_ChatBot`
